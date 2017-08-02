@@ -31,7 +31,9 @@ seo:
 # Event information.
 event:
   name:        "Demon Hacks"
-  description: "Disregard sleep; Pursue Greatness;"
+  description: >
+    Disregard sleep;
+    Pursue Greatness;
   date:        "October 2017"
   location:    "Chicago, IL, United States"
 
@@ -87,10 +89,10 @@ faq:
     - question: "What should I bring to a Hackathon?"
       answer: >
         We recommend that you bring anything you'd need for an extended stay away from home:
-        tolietries (toobrush, toothpaste, etc...);
-        sleeping bag; 
-        sleeping pad (e.g. Thermarest--the floor isn't always the most comfortable);
-        appropriate changes of clothes
+        tolietries (toobrush, toothpaste, etc...);\n
+        sleeping bag;\n 
+        sleeping pad (e.g. Thermarest--the floor isn't always the most comfortable);\n
+        appropriate changes of clothes;\n
 
 
   # Schedule:
