@@ -32,7 +32,7 @@ seo:
 event:
   name:        "Demon Hacks"
   description: >
-    Disregard sleep;
+    Disregard sleep;\n
     Pursue Greatness;
   date:        "October 2017"
   location:    "Chicago, IL, United States"

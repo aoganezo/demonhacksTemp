@@ -50,7 +50,8 @@ section {
 
 .hero {
   /*background-color: #F5699C;*/
-  background: url("../images/bg-chicago.png") center center no repeat;
+  background: url("../images/bg-chicago.png") center center no-repeat;
+  background-size: cover;
   min-height: 110vh;
 }
 
@@ -211,6 +212,27 @@ section {
   margin-bottom: -2px;
   margin-top: 40px;
   width: 300px;
+}
+
+/*
+ * Schedule Section
+ */
+
+.schedule {
+  background-color: #fff;
+  margin-top: 15px;
+  padding: 100px 0;
+  position: relative;
+}
+
+.schedule .dayLg {
+  font-size: 20px;
+  line-height: 1.5em;
+}
+
+.schedule .day {
+  font-size: 16px;
+  line-height: 1.5em;
 }
 
 /*
