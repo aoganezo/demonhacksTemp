@@ -49,8 +49,11 @@ section {
  */
 
 .hero {
-  /*background-color: #F5699C;*/
-  background: url("../images/bg-chicago.png") center center no-repeat;
+  /* background-color: #F5699C;*/
+  /* real background image without artur's opacity diddling
+   * http://www.styledesign.de/images/referenzen/DeluxeBad24-LogoBig.png
+   */
+  background: url("http://www.styledesign.de/images/referenzen/DeluxeBad24-LogoBig.png") center center no-repeat;
   background-size: cover;
   min-height: 110vh;
   &:before {
@@ -61,7 +64,7 @@ section {
     bottom:   0;
     left:     0;
     background-image: linear-gradient(to bottom right,#0B344C,#29AAF5);
-    opacity: .6; 
+    opacity: .2; 
 }
 
 .hero img {
