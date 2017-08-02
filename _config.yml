@@ -92,11 +92,6 @@ event:
         sleeping pad (e.g. Thermarest--the floor isn't always the most comfortable);
         appropriate changes of clothes
 
-        
-  # This is the message you'll receive once you've registered.
-  register:
-    message: >
-      You'll receive more information closer to the hackathon.
 
   # Schedule
   schedule:
@@ -126,6 +121,20 @@ event:
     - day: "__8 am - Hacking ends"
     - day: "__9 am - 11 am - Project Expo (CDM, Various classrooms)"
     - day: "__12:00 pm - 2:00 pm - Closing Stuff (DePaul Center, Concourse level OR Daley Building, Basement)"
+    
+  # About Us section
+  About Us:
+    - person: "Artur Oganezov"
+      info:
+    - person: "Megan Pecho"
+      info:
+    - person: "John Pridmore"
+    - person: "Shannon Lineras"
+    
+  # This is the message you'll receive once you've registered.
+  register:
+    message: >
+      You'll receive more information closer to the hackathon.
 
 # ----------------------------------------------------
 # -- Ignore this unless you know what you're doing. --
