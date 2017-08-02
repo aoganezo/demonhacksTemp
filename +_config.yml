@@ -92,7 +92,7 @@ event:
         sleeping pad (e.g. Thermarest--the floor isn't always the most comfortable);
         appropriate changes of clothes
         
-  # sched information section
+ # sched information section
  schedule:
   - day: "Friday"
   - day: "__3:00 pm - 4:30 pm - Set-up (DePaul Center, Concourse level AND CDM floors)"
