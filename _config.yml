@@ -24,19 +24,19 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Demon Hacks | November 2017 | DemonHacks "
-  description: "Demon Hacks."
+  title:       "DemonHacks | October 2017 | DemonHacks "
+  description: "DemonHacks."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
 event:
   name:        "Demon Hacks"
   description: "Disregard sleep; Pursue Greatness;"
-  date:        "November 2017"
+  date:        "October 2017"
   location:    "Chicago, IL, United States"
 
   trust_badge:
-    year:   "2017"  # season year
+    year:   "2018"  # season year
     region: "na"    # "na" or "eu"
     color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
 
@@ -47,28 +47,12 @@ event:
           client_id:    "0e2f9fc2921d3ad3e12ae900af630d09382e1b3dc1b5b50de2b01b70ad64dbee"
           redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
       - text: "Sponsor"
-        href: "mailto:sponsoRp@demonhacks.com"
+        href: "mailto:sponsorship@demonhacks.com"
 
   about:
     description: >
       Demon Hacks is a hackathon hosted by DePaul University in Chicago, IL. DePaul's Loop campus is right next to the Art Institute 
       of Chicago and Millenium Park. Demon Hacks is a 36 hour hackathon, anything unique to your event.
-
-  # Info Sections
-  #info:
-    #sections:
-      #- image: "images/image1.png"
-        #title: "LEARN."
-        #description: >
-        #  We can write something nice with a graphic (as above) to make the event more appealing.
-      #- image: "images/image2.png"
-      #  title: "BUILD."
-      #  description: >
-      #    We can write something nice with a graphic (as above) to make the event more appealing.
-      #- image: "images/image3.png"
-      #  title: "SHARE."
-      #  description: >
-      #    We can write something nice with a graphic (as above) to make the event more appealing.
 
   # Frequently asked questions.
   faq:
