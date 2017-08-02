@@ -53,6 +53,15 @@ section {
   background: url("../images/bg-chicago.png") center center no-repeat;
   background-size: cover;
   min-height: 110vh;
+  &:before {
+    content: '';
+    position: absolute;
+    top:      0;
+    right:    0;
+    bottom:   0;
+    left:     0;
+    background-image: linear-gradient(to bottom right,#0B344C,#29AAF5);
+    opacity: .6; 
 }
 
 .hero img {
