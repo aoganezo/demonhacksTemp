@@ -17,8 +17,8 @@ layout: default
   <div class="container">
     <h1 class="text-center">FAQ</h1>
     <div class="row">
-      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
-        {% for item in site.event.faq %}
+      <div class="col-xs-12 col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2">
+        {% for item 0in site.event.faq %}
         <div class="question col-xs-12 col-sm-12">
           <h2>{{ item.question }}</h2>
           <hr>
@@ -29,7 +29,23 @@ layout: default
     </div>
   </div>
 </section>
-
+<section class="schedule">
+  <div class="container">
+  <!-- Schedule header -->
+    <h2 class="text-center">SCHEDULE</h2>
+    <div class="row">
+      <div class="col-xs-10 col-xs-offset-2 col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2">
+        {% for item in site.event.schedule %}
+        <div class="dayLG col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
+          <h2> {{ item.dayLG }} </h2>
+          <hr>
+          <h3> {{ item.day }} </h3>
+        </div>
+        {% endfor %}
+    </div>
+  </div>
+</section>
+<!--
 <section class="info">
   <div class="container">
     <div class="items row">
@@ -45,3 +61,4 @@ layout: default
     </div>
   </div>
 </section>
+-->
