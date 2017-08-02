@@ -123,11 +123,11 @@ schedule:
     # - day: "__12:00 pm - 2:00 pm - Closing Stuff (DePaul Center, Concourse level OR Daley Building, Basement)"
     
   # About Us section
-About Us:
-  - person: "Artur Oganezov"
-  - person: "Megan Pecho"
-  - person: "John Pridmore"
-  - person: "Shannon Lineras"
+# About Us:
+#   - person: "Artur Oganezov"
+#   - person: "Megan Pecho"
+#   - person: "John Pridmore"
+#   - person: "Shannon Lineras"
     
   # This is the message you'll receive once you've registered.
   register:
