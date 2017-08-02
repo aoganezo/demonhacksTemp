@@ -129,7 +129,9 @@ event:
     - person: "Megan Pecho"
       info:
     - person: "John Pridmore"
+        info:
     - person: "Shannon Lineras"
+        info:
     
   # This is the message you'll receive once you've registered.
   register:
