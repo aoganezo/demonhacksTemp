@@ -56,7 +56,6 @@ event:
       Demon Hacks is a hackathon hosted by DePaul University in Chicago, IL. DePaul's Loop campus is right next to the Art Institute 
       of Chicago and Millenium Park. Demon Hacks is a 36 hour hackathon, anything unique to your event.
 
-
   # Frequently asked questions.
   faq:
     - question: "Where is Chicago?"
@@ -94,17 +93,16 @@ event:
         * sleeping pad (e.g. Thermarest--the floor isn't always the most comfortable);
         * appropriate changes of clothes;
 
-
   # Schedule:
-  schedule:
-    - day: "Friday"
-    day: "__3:00 pm - 4:30 pm - Set-up (DePaul Center, Concourse level AND CDM floors)"
-    day: "__4:30 pm - 6:30 pm - Check-in (DePaul Center, Concourse level)"
-    day: "__6:00 pm - 6:45 pm - Kick-Off (DePaul Center, Concourse level)"
-    day: "__6:45 pm - 8:00 pm - Dinner, representative tables, icebreaker(?)(DePaul Center, Concourselevel"
-    day: "__(Migrate to CDM)"
-    day: "__8:00 pm - Hacking Starts (CDM, Various classrooms)"
-    day: "__10:00 pm - Activity (CDM, TBD)"
+schedule:
+  day: "Friday"
+  day: "__3:00 pm - 4:30 pm - Set-up (DePaul Center, Concourse level AND CDM floors)"
+  day: "__4:30 pm - 6:30 pm - Check-in (DePaul Center, Concourse level)"
+  day: "__6:00 pm - 6:45 pm - Kick-Off (DePaul Center, Concourse level)"
+  day: "__6:45 pm - 8:00 pm - Dinner, representative tables, icebreaker(?)(DePaul Center, Concourselevel"
+  day: "__(Migrate to CDM)"
+  day: "__8:00 pm - Hacking Starts (CDM, Various classrooms)"
+  day: "__10:00 pm - Activity (CDM, TBD)"
     # - day: "Saturday"
     # - day: "__12:00 am (- 8 am) - Sleeping Area Available (CDM, 5th floor?)"
     # - day: "__12:00 am - Midnight Snack (CDM, 9th floor)"
@@ -121,8 +119,7 @@ event:
     # - day: "__8 am - Hacking ends"
     # - day: "__9 am - 11 am - Project Expo (CDM, Various classrooms)"
     # - day: "__12:00 pm - 2:00 pm - Closing Stuff (DePaul Center, Concourse level OR Daley Building, Basement)"
-    
-  # About Us section
+# About Us section
 # About Us:
 #   - person: "Artur Oganezov"
 #   - person: "Megan Pecho"
