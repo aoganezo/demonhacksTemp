@@ -29,22 +29,8 @@ layout: default
     </div>
   </div>
 </section>
-<section class="schedule">
-  <div class="container">
-  <!-- Schedule header -->
-    <h2 class="text-center">SCHEDULE</h2>
-    <div class="row">
-      <div class="col-xs-10 col-xs-offset-2 col-sm-8 col-sm-offset-2">
-        {% for item in site.event.schedule %}
-        <div class="day col-xs-12 col-sm-12">
-          <h2> {{ item.day }} </h2>
-        </div>
-        {% endfor %}
-    </div>
-  </div>
-</div>
-</section>
-<!--
+
+<!-- INFO  -->
 <section class="info">
   <div class="container">
     <div class="items row">
@@ -60,4 +46,21 @@ layout: default
     </div>
   </div>
 </section>
--->
+
+<!-- SCHEDULE -->
+<section class="schedule">
+  <div class="container">
+  <!-- Schedule header -->
+    <h2 class="text-center">SCHEDULE</h2>
+    <div class="row">
+      <div class="col-xs-10 col-xs-offset-2 col-sm-8 col-sm-offset-2">
+        {% for item in site.event.schedule %}
+        <div class="day col-xs-12 col-sm-12">
+          <h2> {{ item.day }} </h2>
+        </div>
+        {% endfor %}
+    </div>
+  </div>
+</div>
+</section>
+
