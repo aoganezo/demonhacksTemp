@@ -98,7 +98,7 @@ event:
     - day: "Friday"
       event: >
         ____3:00 pm - 4:30 pm - Set-up (DePaul Center, Concourse level AND CDM floors)
-      event: "____4:30 pm - 6:30 pm - Check-in (DePaul Center, Concourse level)"
+      - event: "____4:30 pm - 6:30 pm - Check-in (DePaul Center, Concourse level)"
       event: "____6:00 pm - 6:45 pm - Kick-Off (DePaul Center, Concourse level)"
       event: "____6:45 pm - 8:00 pm - Dinner, representative tables, icebreaker(?)(DePaul Center, Concourse level)"
       event: "____(Migrate to CDM)"
