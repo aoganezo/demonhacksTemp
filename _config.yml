@@ -102,7 +102,7 @@ event:
       event: "____6:45 pm - 8:00 pm - Dinner, representative tables, icebreaker(?)(DePaul Center, Concourse level)"
       event: "____(Migrate to CDM)"
       event: "____8:00 pm - Hacking Starts (CDM, Various classrooms)" 
-      event: "____10:00 pm - Activity (CDM, TBD)"
+      # event: "____10:00 pm - Activity (CDM, TBD)"
    # - day: "Saturday"
    # - day: "____12:00am - (8am) - Sleeping Area Available (CDM, 5th floor?)"
    # - day: "____12:00am - Midnight Snack (CDM, 9th floor)"
