@@ -30,9 +30,9 @@ seo:
 
 # Event information.
 event:
-  name:        "Demon Hacks"
+  name: "Demon Hacks"
   description: >
-    Disregard sleep;\n
+    Disregard sleep; <br/>
     Pursue Greatness;
   date:        "October 2017"
   location:    "Chicago, IL, United States"
