@@ -55,7 +55,7 @@ layout: default
       <div class="col-xs-12 col-sm-8 col-sm-offset-2">
         {% for item in site.event.schedule %}
         <div class="day col-xs-12 col-sm-12">
-          <h2> {{ item }} </h2>
+          <h2> {{ item | markdownify }} </h2>
           <hr>
           {% for event in item %}
           <p class="event">{{ item.event | markdownify }}</p>
