@@ -113,12 +113,21 @@ event:
       "8 am - Hacking ends",
       "9 am - 11 am - Project Expo (CDM, Various classrooms)",
       "12:00 pm - 2:00 pm - Closing Stuff (DePaul Center, Concourse level OR Daley Building, Basement)"]
+
 # About Us section
-# About Us:
-#   - person: "Artur Oganezov"
-#   - person: "Megan Pecho"
-#   - person: "John Pridmore"
-#   - person: "Shannon Lineras"
+  us:
+    - person: "Artur Oganezov"
+        - image: "https://avatars0.githubusercontent.com/u/14896951?v=4&s=460"
+        - description:
+    - person: "Megan Pecho"
+        - image:
+        - description:
+    - person: "John Pridmore"
+        - image:
+        - description:
+    - person: "Shannon Lineras"
+        - image:
+        - description:
     
   # This is the message you'll receive once you've registered.
 register:
