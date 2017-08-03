@@ -57,9 +57,10 @@ layout: default
         <div class="day col-xs-12 col-sm-12">
           <h2> {{ item | markdownify }} </h2>
           <hr>
-          {% for event in item %}
+          <div class="event">        {% for event in item %}
           <div class="event">        
-          <p>{{ item.event | markdownify }}</p>
+          </div> for e in item.event %}
+          <p>{{ e | markdownify }}</p>
           </div>
           {% endfor %}
         </div>
