@@ -58,7 +58,7 @@ layout: default
           <h2> {{ item | markdownify }} </h2>
           <hr>
           {% for event in item %}
-          <p class="event">{{ item.event | markdownify }}</p>
+          <p>{{ item.event | markdownify }}</p>
           {% endfor %}
         </div>
         {% endfor %}
