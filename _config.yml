@@ -105,29 +105,31 @@ event:
   # Schedule:
   schedule:
     - day: "Friday"
-      event: ["____*3:00 pm - 4:30 pm* - Set-up (DePaul Center, Concourse level AND CDM floors)",
-      "____4:30 pm - 6:30 pm - Check-in (DePaul Center, Concourse level)",
-      "____6:00 pm - 6:45 pm - Kick-Off (DePaul Center, Concourse level)",
-      "____6:45 pm - 8:00 pm - Dinner, representative tables, icebreaker(?)(DePaul Center, Concourse level)",
-      "____(Migrate to CDM)",
-      "____8:00 pm - Hacking Starts (CDM, Various classrooms)"]
-      # event: "____10:00 pm - Activity (CDM, TBD)"
+      event: ["3:00 pm - 4:30 pm - Set-up (DePaul Center, Concourse level AND CDM floors)",
+      "4:30 pm - 6:30 pm - Check-in (DePaul Center, Concourse level)",
+      "6:00 pm - 6:45 pm - Kick-Off (DePaul Center, Concourse level)",
+      "6:45 pm - 8:00 pm - Dinner, representative tables, icebreaker(?)(DePaul Center, Concourse level)",
+      "(Migrate to CDM)",
+      "8:00 pm - Hacking Starts (CDM, Various classrooms)",
+      "____10:00 pm - Activity (CDM, TBD)"]
    # - day: "Saturday"
-   # - day: "____12:00am - (8am) - Sleeping Area Available (CDM, 5th floor?)"
-   # - day: "____12:00am - Midnight Snack (CDM, 9th floor)"
-   # - day: "____7:30am  - 9:00am - Breakfast (CDM, 9th floor)"
-   # - day: "____TBD - Keynote speaker (CDM, Theater)"
-   # - day: "____12:00pm - 1:00pm - Lunch (CDM, 9th floor)"
-   # - day: "____TBD - Keynote Speaker (CDM, Theater)"
-   # - day: "____6:00pm - 7:00pm - Dinner (CDM, 9th floor)"
-   # - day: "____10:00pm - Activity (CDM, TBD)"
-   # - day: "Sunday"
-   # - day: "____12:00 am (- 8 am) - Sleeping Area Available (CDM, 5th floor?)"
-   # - day: "____12:00 am - Midnight Snack (CDM, 9th floor)"
-   # - day: "____7:30 am - 9:00 am - Breakfast (CDM, 9th floor)"
-   # - day: "____8 am - Hacking ends"
-   # - day: "____9 am - 11 am - Project Expo (CDM, Various classrooms)"
-   # - day: "____12:00 pm - 2:00 pm - Closing Stuff (DePaul Center, Concourse level OR Daley Building, Basement)"
+   ["____12:00am - (8am) - Sleeping Area Available (CDM, 5th floor?)",
+   "____12:00am - Midnight Snack (CDM, 9th floor)",
+   "____7:30am  - 9:00am - Breakfast (CDM, 9th floor)",
+   "____TBD - Keynote speaker (CDM, Theater)",
+   "____12:00pm - 1:00pm - Lunch (CDM, 9th floor)",
+   "____TBD - Keynote Speaker (CDM, Theater)",
+   "____6:00pm - 7:00pm - Dinner (CDM, 9th floor)",
+   "____10:00pm - Activity (CDM, TBD)"]
+   
+  - day: "Sunday"
+    event: [
+   "12:00 am (- 8 am) - Sleeping Area Available (CDM, 5th floor?)",
+   "12:00 am - Midnight Snack (CDM, 9th floor)",
+   "7:30 am - 9:00 am - Breakfast (CDM, 9th floor)",
+   "8 am - Hacking ends",
+   "9 am - 11 am - Project Expo (CDM, Various classrooms)",
+   "12:00 pm - 2:00 pm - Closing Stuff (DePaul Center, Concourse level OR Daley Building, Basement)"]
 # About Us section
 # About Us:
 #   - person: "Artur Oganezov"
