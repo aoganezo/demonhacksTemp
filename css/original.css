@@ -93,6 +93,7 @@ section {
   font-weight: 800;
   letter-spacing: -2px;
   padding: 10px 30px;
+  color: #951818;
 }
 
 .hero .wrapper h2 {
@@ -114,8 +115,7 @@ section {
   background: #fff;
   border: 10px solid #0F2C34;
   border-radius: 40px;
-  color: #951818;
-  /*color: #0F2C34;*/
+  color: #0F2C34;
   display: inline;
   font-family: Montserrat;
   font-size: 24px;
@@ -123,6 +123,7 @@ section {
   padding: 10px 70px;
   text-decoration: none;
   text-transform: uppercase;
+  opacity: .6;
 }
 
 .hero .buttons a:hover,
