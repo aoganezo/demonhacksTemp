@@ -95,7 +95,8 @@ event:
 
   # Schedule:
   schedule:
-    day: "Friday"
+    day: 
+      name: "Friday"
       event: >
         ____3:00 pm - 4:30 pm - Set-up (DePaul Center, Concourse level AND CDM floors)
       event: "____4:30 pm - 6:30 pm - Check-in (DePaul Center, Concourse level)"
