@@ -89,13 +89,13 @@ event:
       answer: >
         We recommend that you bring anything you'd need for an extended stay away from home:
         tolietries (toobrush, toothpaste, etc...);  
-        sleeping bag;  
+        sleeping bag; <br/> 
         sleeping pad (e.g. Thermarest--the floor isn't always the most comfortable);  
         appropriate changes of clothes;  
 
   # Schedule:
   schedule:
-    - day: "Friday"
+    day: "Friday"
       event: >
         ____3:00 pm - 4:30 pm - Set-up (DePaul Center, Concourse level AND CDM floors)
       event: "____4:30 pm - 6:30 pm - Check-in (DePaul Center, Concourse level)"
