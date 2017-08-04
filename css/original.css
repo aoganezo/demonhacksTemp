@@ -23,6 +23,7 @@
 
 body {
   /*background-color: #0F2C34;*/
+  color: #951818;
 }
 
 section {
@@ -60,6 +61,7 @@ section {
   background-color: rgba(0, 0, 0, 0.4);
   min-height: 110vh;
   color: #b3b3b3;
+
   /*&:before {
     content: '';
     position: absolute;
@@ -69,8 +71,9 @@ section {
     left:     0;
     /*background-image: linear-gradient(to bottom right,#0B344C,#29AAF5);*/
     /*opacity: .2;
-}*/
+  }*/ 
 }
+
 .hero img {
   max-width: 400px;
 }
