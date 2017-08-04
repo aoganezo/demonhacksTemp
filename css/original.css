@@ -153,7 +153,6 @@ section {
 
 .about p {
   /*color: #0F2C34;*/
-  color: #951818;
   font-weight: 600;
   font-size: 22px;
   line-height: 1.6em;
@@ -173,7 +172,8 @@ section {
   background-color: #fff;
   margin-top: 15px;
   padding: 100px 0;
-  position: relative;
+  position: relative; 
+  color: #951818;
 }
 
 .info .item {
