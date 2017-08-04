@@ -117,17 +117,13 @@ event:
 # About Us section
   us:
     - person: "Artur Oganezov"
-        - image: "https://avatars0.githubusercontent.com/u/14896951?v=4&s=460"
-        - description:
+      image: "https://avatars0.githubusercontent.com/u/14896951?v=4&s=460"
     - person: "Megan Pecho"
-        - image:
-        - description:
+      image:
     - person: "John Pridmore"
-        - image:
-        - description:
+      image:
     - person: "Shannon Lineras"
-        - image:
-        - description:
+      image:
     
   # This is the message you'll receive once you've registered.
 register:
