@@ -61,7 +61,7 @@ section {
   background-color: rgba(0, 0, 0, 0.4);
   min-height: 110vh;
   color: #951818;
-
+  font-weight:400;
   /*&:before {
     content: '';
     position: absolute;
