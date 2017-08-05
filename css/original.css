@@ -279,7 +279,12 @@ section {
   padding: 100px 0;
   position: relative;
 }
-
+.us .person {
+  background-color: #fff;
+  margin-top: 15px;
+  padding: 100px 0;
+  position: relative;
+}
 .us img {
   /*float: relative;*/
   height: 33%;
