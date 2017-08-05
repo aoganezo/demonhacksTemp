@@ -73,7 +73,7 @@ layout: default
     <div class="row">
       <div class="col-xs-14 col-sm-8 col-sm-offset-2">
         {% for item in site.event.us limit:2 %}
-        <div class="person col-xs-12">  
+        <div class="person col-xs-6">  
           <h4> {{ item.person }} </h4>
           <img src="{{item.image}}" class="img col-xs-4">
         </div>
@@ -82,7 +82,7 @@ layout: default
     <div class="row">
       <div class="col-xs-28 col-sm-8 col-sm-offset-2">
         {% for item in site.event.us offset:2 %}
-        <div class="person col-xs-12">  
+        <div class="person col-xs-6">  
           <h4> {{ item.person }} </h4>
           <img src="{{item.image}}" class="img col-xs-4">
         </div>
