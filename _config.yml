@@ -54,7 +54,7 @@ event:
   about:
     description: >
       Demon Hacks is a hackathon hosted by DePaul University in Chicago, IL. DePaul's Loop campus is right next to the Art Institute 
-      of Chicago and Millenium Park. Demon Hacks is a 36 hour hackathon, anything unique to your event.
+      of Chicago and Millenium Park. Demon Hacks is a 36 hour hackathon.
 
   # Frequently asked questions.
   faq:
@@ -97,15 +97,23 @@ event:
   schedule:
     - day: "Friday"
       event: [
-      "3:00 pm - 4:30 pm - Set-up (DePaul Center, Concourse level AND CDM floors)",
-      "4:30 pm - 6:30 pm - Check-in (DePaul Center, Concourse level)", 
-      "6:00 pm - 6:45 pm - Kick-Off (DePaul Center, Concourse level)", 
-      "6:45 pm - 8:00 pm - Dinner, representative tables, icebreaker(?)(DePaul Center, Concourse level)", 
-      "(Migrate to CDM)", 
-      "8:00 pm           - Hacking Starts (CDM, Various classrooms)", 
-      "10:00 pm          - Activity (CDM, TBD)"]
+      "3:00 pm - 4:30 pm - Set-up           - (DePaul Center, Concourse level AND CDM floors)",
+      "4:30 pm - 6:30 pm - Check-in         - (DePaul Center, Concourse level)", 
+      "6:00 pm - 6:45 pm - Kick-Off         - (DePaul Center, Concourse level)", 
+      "6:45 pm - 8:00 pm - Dinner           - (DePaul Center, Concourse level)", 
+      "                  - (Migrate to CDM) - ", 
+      "8:00 pm           - Hacking Starts   - (CDM, Various classrooms)", 
+      "10:00 pm          - Activity         - (CDM, TBD)"]
     - day: "Saturday"
-      event: ["12:00am - (8am) - Sleeping Area Available (CDM, 5th floor?)", "12:00am - Midnight Snack (CDM, 9th floor)", "7:30am  - 9:00am - Breakfast (CDM, 9th floor)", "TBD - Keynote speaker (CDM, Theater)", "12:00pm - 1:00pm - Lunch (CDM, 9th floor)", "TBD - Keynote Speaker (CDM, Theater)", "6:00pm - 7:00pm - Dinner (CDM, 9th floor)", "10:00pm - Activity (CDM, TBD)"]
+      event: [
+      "12:00am - (8am)  - Sleeping Area Available - (CDM, 5th floor?)", 
+      "12:00am -        - Midnight Snack          - (CDM, 9th floor)", 
+      "7:30am  - 9:00am - Breakfast               - (CDM, 9th floor)", 
+      "TBD     -        - Keynote speaker         - (CDM, Theater)", 
+      "12:00pm - 1:00pm - Lunch                   - (CDM, 9th floor)", 
+      "TBD              - Keynote Speaker         - (CDM, Theater)", 
+      "6:00pm - 7:00pm  - Dinner                  - (CDM, 9th floor)", 
+      "10:00pm          - Activity                - (CDM, TBD)"]
     - day: "Sunday"
       event: ["12:00 am (- 8 am) - Sleeping Area Available (CDM, 5th floor?)",
       "12:00 am - Midnight Snack (CDM, 9th floor)",
