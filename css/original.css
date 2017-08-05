@@ -288,6 +288,7 @@ section {
 }
 .us img {
   /*float: relative;*/
+  max-height: 300px;
 }
 
 .us h3 {
