@@ -102,7 +102,9 @@ section {
 .hero .wrapper h2 {
   font-size: 35px;
   font-weight: 400;
-  color: white;
+  color: green;
+  background: black;
+
 }
 
 .hero .wrapper h3 {
