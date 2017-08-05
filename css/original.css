@@ -280,7 +280,7 @@ section {
 }
 
 .us img {
-  float: relative;
+  /*float: relative;*/
   height: 33%;
 }
 
