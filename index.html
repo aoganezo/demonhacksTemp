@@ -49,7 +49,6 @@ layout: default
 <!-- SCHEDULE -->
 <section class="schedule">
   <div class="container">
-  <!-- Schedule header -->
     <h1 class="text-center">SCHEDULE</h1>
     <div class="row">
       <div class="col-xs-12 col-sm-8 col-sm-offset-2">
@@ -57,16 +56,14 @@ layout: default
         <div class="day col-xs-12">
          <h2> {{ item.day | markdownify }} </h2>
           <hr>
-          <!-- <div class="event">         -->
             {% for e in item.event %}
             {{ e | markdownify }}
-          <!-- </div> -->
-          {% endfor %}
+            {% endfor %}
         </div>
         {% endfor %}
+      </div>
     </div>
   </div>
-</div>
 </section>
 
 <section class="us">
@@ -78,19 +75,19 @@ layout: default
         {% for item in site.event.us limit:2 %}
         <div class="person col-xs-6">  
           <h4> {{ item.person }} </h4>
-        <img src="{{item.image}}" class="img">
-      </div>
+          <img src="{{item.image}}" class="img col-xs-5">
+        </div>
         {% endfor %}
-    </div>
+      </div>
     <div class="row">
       <div class="col-xs-12 col-sm-8 col-sm-offset-2">
         {% for item in site.event.us offset:2 %}
         <div class="person col-xs-6">  
           <h4> {{ item.person }} </h4>
-        <img src="{{item.image}}" class="img">
-      </div>
+          <img src="{{item.image}}" class="img">
+        </div>
         {% endfor %}
+      </div>
     </div>
   </div>
-</div>
 </section>
