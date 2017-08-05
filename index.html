@@ -75,7 +75,7 @@ layout: default
         {% for item in site.event.us limit:2 %}
         <div class="person col-xs-6">  
           <h4> {{ item.person }} </h4>
-          <img src="{{item.image}}" class="img">
+          <img src="{{item.image}}" class="img col-xs-12">
         </div>
         {% endfor %}
       </div>
@@ -84,7 +84,7 @@ layout: default
         {% for item in site.event.us offset:2 %}
         <div class="person col-xs-6">  
           <h4> {{ item.person }} </h4>
-          <img src="{{item.image}}" class="img">
+          <img src="{{item.image}}" class="img col-xs-12">
         </div>
         {% endfor %}
       </div>
