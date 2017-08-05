@@ -102,8 +102,8 @@ section {
 }
 
 .hero .wrapper h2 {
-  font-size: 28px;
-  font-weight: 200;
+  font-size: 40px;
+  font-weight: 300;
 }
 
 .hero .wrapper h3 {
@@ -176,7 +176,6 @@ section {
   margin-top: 15px;
   padding: 100px 0;
   position: relative; 
-  color: #951818;
 }
 
 .info .item {
