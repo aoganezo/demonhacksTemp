@@ -280,8 +280,7 @@ section {
 }
 
 .us img {
-  width: 40%;
-  height: 40%;
+  float: relative;
 }
 
 .us h1 {
