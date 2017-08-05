@@ -117,7 +117,7 @@ event:
 # About Us section
   us:
     - person: "Artur Oganezov"
-      image: "https://avatars0.githubusercontent.com/u/14896951?v=4&s=460"
+      image: ![Artur Oganezov](https://avatars0.githubusercontent.com/u/14896951?v=4&s=460)
     - person: "Megan Pecho"
       image:
     - person: "John Pridmore"
