@@ -124,16 +124,16 @@ event:
 
 # About Us section
   us:
-    - person: " Artur Oganezov"
+    - person: "Artur Oganezov"
       image: >
         https://avatars0.githubusercontent.com/u/14896951?v=4&s=460
-    - person: " Megan Pecho"
+    - person: "Megan Pecho"
       image: >
-        https://avatars0.githubusercontent.com/u/6945081?v=4&u=d5dfb4613c0bc17897ae920effe94067c8340a45&s=400 
-    - person: " John Pridmore"
+        https://scontent.ford4-1.fna.fbcdn.net/v/t31.0-8/20617120_1540427165989403_8988878459455321149_o.jpg?oh=cb872251ab99cfe090ce7641261c16c7&oe=59EBE2A7
+    - person: "John Pridmore"
       image: >
-        https://scontent.ford4-1.fna.fbcdn.net/v/t1.0-9/15823279_10155019644134258_438434013175190213_n.jpg?oh=ed05ebce993549e35b30ac1d319eb00a&oe=59F4D3C5
-    - person: " Shannon Lineras"
+        https://avatars0.githubusercontent.com/u/6945081?v=4&u=d5dfb4613c0bc17897ae920effe94067c8340a45&s=400
+    - person: "Shannon Lineras"
       image: >
         https://scontent.ford4-1.fna.fbcdn.net/v/t1.0-9/10653818_980626491966752_997741039636418943_n.jpg?oh=d1f3aea99b0cc594f97b7367f4c4a190&oe=59FEC4E1
     
