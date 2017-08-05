@@ -97,7 +97,7 @@ event:
   schedule:
     - day: "Friday"
       event: [
-      "3:00 pm - 4:30 pm - Set-up           - (DePaul Center, Concourse level AND CDM floors)",
+      "3:00 pm - 4:30 pm - Set-up           - *(DePaul Center, Concourse level AND CDM floors)*",
       "4:30 pm - 6:30 pm - Check-in         - (DePaul Center, Concourse level)", 
       "6:00 pm - 6:45 pm - Kick-Off         - (DePaul Center, Concourse level)", 
       "6:45 pm - 8:00 pm - Dinner           - (DePaul Center, Concourse level)", 
