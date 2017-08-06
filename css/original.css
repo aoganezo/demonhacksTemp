@@ -282,14 +282,14 @@ section {
 .us .person {
   background-color: #fff;
   margin-top: 15px;
-  padding: 100px 0;
+  /*padding: 100px 0;*/
   position: relative;
-  max-height: 500px;
+  max-height: 100%;
 }
-.us img {
-  /*float: relative;*/
+/*.us img {
+  /*float: relative;
   max-height: 200px;
-}
+}*/
 
 .us h3 {
   font-family: 'Montserrat';
