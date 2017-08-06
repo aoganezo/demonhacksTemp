@@ -317,7 +317,7 @@ section {
   margin: 0;
 }
 
-.topText {
+div.topText {
 	background: rgba(169,169,169,0.5); 
 	max-width:55%; 
 	margin:0 auto;
