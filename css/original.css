@@ -317,6 +317,12 @@ section {
   margin: 0;
 }
 
+.topText {
+	background: rgba(169,169,169,0.5); 
+	max-width:55%; 
+	margin:0 auto;
+}
+
 @media(max-width: 768px) {
   .hero .buttons a {
     border-width: 8px;
@@ -333,10 +339,4 @@ section {
     border-top-width: 8px;
     top: -8px;
   }
-  
-.topText {
-	background: rgba(169,169,169,0.5); 
-	max-width:55%; 
-	margin:0 auto;
-}
 }
