@@ -317,10 +317,6 @@ section {
   margin: 0;
 }
 
-.footer h3 a {
-  color: #fff;
-}
-
 @media(max-width: 768px) {
   .hero .buttons a {
     border-width: 8px;
