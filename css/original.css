@@ -51,7 +51,7 @@ section {
 
 .hero {
   /* background-color: #F5699C;*/
-  /* real background image without artur's opacity diddling
+  /* real background image without artur's opacity diddling. :'(
    * http://www.styledesign.de/images/referenzen/DeluxeBad24-LogoBig.png
    */
   width: 100%;
@@ -89,8 +89,6 @@ section {
 }
 
 .hero .wrapper h1 {
-  /* background: #fff;*/
-  /* background: rgba(255, 255, 255, .3);*/
   display: inline-block;
   font-size: 60px;
   font-weight: 800;
@@ -103,14 +101,14 @@ section {
   font-size: 35px;
   font-weight: 400;
   color: #951818;
-  /*background: black;*/
   text-shadow: white; 
+  margin-top: 0;
 }
 
 .hero .wrapper h3 {
-  font-size: 20px;
-  font-weight: 200;
-  padding-bottom: 35px;
+  font-size: 24px;
+  font-weight: 600;
+  padding-bottom: 15px;
 }
 
 .hero .buttons {
@@ -282,14 +280,14 @@ section {
 .us .person {
   background-color: #fff;
   margin-top: 15px;
-  padding: 100px 0;
+  /*padding: 100px 0;*/
   position: relative;
-  max-height: 500px;
+  max-height: 100%;
 }
-.us img {
-  /*float: relative;*/
+/*.us img {
+  /*float: relative;
   max-height: 200px;
-}
+}*/
 
 .us h3 {
   font-family: 'Montserrat';
@@ -317,10 +315,6 @@ section {
   font-weight: 400;
   line-height: 26px;
   margin: 0;
-}
-
-.footer h3 a {
-  color: #fff;
 }
 
 @media(max-width: 768px) {

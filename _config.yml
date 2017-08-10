@@ -34,7 +34,7 @@ event:
   description: >
     Disregard sleep; <br/>
     Pursue Greatness;
-  date:        "October 2017"
+  date:        "October 27th - 29th"
   location:    "Chicago, IL, United States"
 
   trust_badge:
@@ -129,13 +129,13 @@ event:
         https://avatars0.githubusercontent.com/u/14896951?v=4&s=460
     - person: "Megan Pecho"
       image: >
-        https://scontent.ford4-1.fna.fbcdn.net/v/t31.0-8/20617120_1540427165989403_8988878459455321149_o.jpg?oh=cb872251ab99cfe090ce7641261c16c7&oe=59EBE2A7
+        ../images/megan.jpg
     - person: "John Pridmore"
       image: >
         https://avatars0.githubusercontent.com/u/6945081?v=4&u=d5dfb4613c0bc17897ae920effe94067c8340a45&s=400
     - person: "Shannon Lineras"
       image: >
-        https://scontent.ford4-1.fna.fbcdn.net/v/t1.0-9/10653818_980626491966752_997741039636418943_n.jpg?oh=d1f3aea99b0cc594f97b7367f4c4a190&oe=59FEC4E1
+        ../images/shannon.jpg
     
   # This is the message you'll receive once you've registered.
 register:
