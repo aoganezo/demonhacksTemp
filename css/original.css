@@ -150,11 +150,11 @@ section {
   background-color: #fff;
   padding: 130px 0;
   position: relative;
-  color: #951818;
+  /*color: #951818;*/
 }
 
 .about p {
-  /*color: #0F2C34;*/
+  color: #0F2C34;
   font-weight: 600;
   font-size: 22px;
   line-height: 1.6em;
