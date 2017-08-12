@@ -87,6 +87,7 @@ section {
 .hero .wrapper {
   padding-top: 30vh;
   min-width: 425px;
+  max-width: 470px;
 }
 
 .hero .wrapper h1 {
