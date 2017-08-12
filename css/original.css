@@ -142,6 +142,12 @@ section {
   margin-right: 10px;
 }
 
+.topText {
+  background: rgba(169,169,169,0.6);
+  max-width:55%;
+  margin:75px auto;
+}
+
 /* 
  * About Section
  */
