@@ -79,7 +79,7 @@ section {
 
 .hero hr {
   border-top: 15px solid #0F2C34;
-  margin: 0;
+  margin: 10px;
   position: relative;
   top: -14px;
 }
@@ -113,7 +113,7 @@ section {
 }
 
 .hero .buttons {
-  margin: 40px;
+  margin: 20px;
 }
 
 .hero .buttons a {
@@ -123,7 +123,7 @@ section {
   /*color: #0F2C34;*/
   color: #951818; 
   display: inline;
-  font-family: Montserrat;
+  font-family: 'Montserrat';
   font-size: 24px;
   font-weight: 700;
   padding: 10px 70px;
