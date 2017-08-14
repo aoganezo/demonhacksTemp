@@ -87,26 +87,26 @@ event:
         Yes there is, you can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
     - question: "What should I bring to a Hackathon?"
       answer: >
+        Laptop and charger; <br/>
+        Phone and charger; <br/>
         We recommend that you bring anything you'd need for an extended stay away from home: <br/>
-        tolietries (toobrush, toothpaste, etc...); <br/>  
+        tolietries (deoderent, toobrush, toothpaste, etc...); <br/>  
         sleeping bag; <br/> 
-        sleeping pad (e.g. Thermarest--the floor isn't always the most comfortable);  <br/>
-        appropriate changes of clothes;  <br/>
+        appropriate changes of clothes (remember, you're in the Windy City!);  <br/>
 
   # Schedule:
   schedule:
     - day: "Friday"
       event: [
-      "3:00 pm - 4:30 pm - Set-up           - *(DePaul Center, Concourse level AND CDM floors)*",
-      "4:30 pm - 6:30 pm - Check-in         - (DePaul Center, Concourse level)", 
+      "5:00 pm - 6:00 pm - Check-in         - (DePaul Center, Concourse level)", 
       "6:00 pm - 6:45 pm - Kick-Off         - (DePaul Center, Concourse level)", 
-      "6:45 pm - 8:00 pm - Dinner           - (DePaul Center, Concourse level)", 
       "                  - (Migrate to CDM) - ", 
+      "6:45 pm - 8:00 pm - Dinner           - (CDM, 9th floor)", 
       "8:00 pm           - Hacking Starts   - (CDM, Various classrooms)", 
       "10:00 pm          - Activity         - (CDM, TBD)"]
     - day: "Saturday"
       event: [
-      "12:00am - (8am)  - Sleeping Area Available - (CDM, 5th floor?)", 
+      "12:00am - (8am)  - Sleeping Area Available - (CDM, floor TBD)", 
       "12:00am -        - Midnight Snack          - (CDM, 9th floor)", 
       "7:30am  - 9:00am - Breakfast               - (CDM, 9th floor)", 
       "TBD     -        - Keynote speaker         - (CDM, Theater)", 
@@ -115,12 +115,12 @@ event:
       "6:00pm - 7:00pm  - Dinner                  - (CDM, 9th floor)", 
       "10:00pm          - Activity                - (CDM, TBD)"]
     - day: "Sunday"
-      event: ["12:00 am (- 8 am) - Sleeping Area Available (CDM, 5th floor?)",
+      event: ["12:00 am (- 8 am) - Sleeping Area Available (CDM, floor TBD)",
       "12:00 am - Midnight Snack (CDM, 9th floor)",
       "7:30 am - 9:00 am - Breakfast (CDM, 9th floor)",
       "8 am - Hacking ends",
       "9 am - 11 am - Project Expo (CDM, Various classrooms)",
-      "12:00 pm - 2:00 pm - Closing Stuff (DePaul Center, Concourse level OR Daley Building, Basement)"]
+      "12:00 pm - 2:00 pm - Closing Ceremony (DePaul Center, Concourse level)"]
 
 # About Us section
   us:
