@@ -53,8 +53,8 @@ event:
 
   about:
     description: >
-      Demon Hacks is a hackathon hosted by DePaul University in Chicago, IL. DePaul's Loop campus is right next to the Art Institute 
-      of Chicago and Millenium Park. Demon Hacks is a 36 hour hackathon.
+      Demon Hacks is a 36-hour hackathon hosted by DePaul University in Chicago, IL. DePaul's Loop campus is right next to the Art Institute 
+      of Chicago and Millenium Park. 
 
   # Frequently asked questions.
   faq:
@@ -124,12 +124,12 @@ event:
 
 # About Us section
   us:
-    - person: "Artur Oganezov"
-      image: >
-        https://avatars0.githubusercontent.com/u/14896951?v=4&s=460
     - person: "Megan Pecho"
       image: >
         ../images/megan.jpg
+    - person: "Artur Oganezov"
+      image: >
+        https://avatars0.githubusercontent.com/u/14896951?v=4&s=460
     - person: "John Pridmore"
       image: >
         https://avatars0.githubusercontent.com/u/6945081?v=4&u=d5dfb4613c0bc17897ae920effe94067c8340a45&s=400
