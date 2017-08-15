@@ -336,6 +336,10 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
 }
 
 @media(max-width: 768px) {
+	div.wrapper {
+		padding-top: 0;
+	}
+	
 	.h1 {
 		word-wrap: break-word;
 	}
