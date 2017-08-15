@@ -37,7 +37,7 @@ event:
   trust_badge:
     year:   "2018"  # season year
     region: "na"    # "na" or "eu"
-    color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
+    color:  "gray" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
     links:
@@ -134,6 +134,8 @@ event:
       image: >
         ../images/shannon.jpg
     
+    sponsors:
+        message: Sponsors coming soon! If you're interested in sponsoring, please email us at sponsor@demonhacks.com!
   # This is the message you'll receive once you've registered.
 register:
   message: >
