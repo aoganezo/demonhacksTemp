@@ -112,12 +112,12 @@ section {
   padding-bottom: 15px;
 }
 
- .hero .buttons a {
+ /*.hero .buttons a {
     border-width: 8px;
     display: block;
     font-size: 20px;
 	text-align: center;
- }
+ }*/
   
 .hero .buttons a {
   background: #fff;
@@ -125,13 +125,14 @@ section {
   border-radius: 40px;
   /*color: #0F2C34;*/
   color: #951818; 
-  display: inline;
+  display: block;
   font-family: 'Montserrat';
   font-size: 24px;
   font-weight: 700;
   padding: 10px 70px;
   text-decoration: none;
   text-transform: uppercase;
+  text-align: center;
 }
 
 .hero .buttons a:hover,
