@@ -116,7 +116,7 @@ section {
     border-width: 8px;
     display: block;
     font-size: 20px;
-    margin: 0 auto;
+	text-align: center;
  }
   
 .hero .buttons a {
