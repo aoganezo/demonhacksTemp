@@ -172,13 +172,7 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
   /*color: #951818;*/
 }
 
-.about p {
-  color: #0F2C34;
-  font-weight: 600;
-  font-size: 22px;
-  line-height: 1.6em;
-  letter-spacing: -.3px;
-}
+	
 
 .about p span {
   font-weight: 700;
@@ -336,6 +330,12 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
   position: relative;
 }
 
+.aboutSponsors {
+  border-width: 15px 0;
+  background-color: #fff;
+  padding: 0 0 130px 0;
+  position: relative;
+}
 /*
  * Footer Section
  */
