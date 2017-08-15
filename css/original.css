@@ -118,7 +118,12 @@ section {
     font-size: 20px;
 	text-align: center;
  }*/
-  
+ 
+div.buttons.align-center {
+	display: block;
+	text-align: center;
+}
+
 .hero .buttons a {
   background: #fff;
   border: 10px solid #0F2C34;
