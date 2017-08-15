@@ -136,7 +136,7 @@ event:
     
   sponsors:
     message: >
-        Sponsors coming soon! If you're interested in sponsoring, please email us at sponsor@demonhacks.com!
+        Sponsors coming soon! If you're interested in sponsoring, please email us at sponsor@demonhacks.com.
   # This is the message you'll receive once you've registered.
     
     register:
