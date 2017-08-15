@@ -112,18 +112,13 @@ section {
   padding-bottom: 15px;
 }
 
- /*.hero .buttons a {
+.hero .buttons a {
     border-width: 8px;
     display: block;
     font-size: 20px;
 	text-align: center;
- }*/
+ }
  
-div.buttons {
-	display: block;
-	text-align: center;
-	
-}
 
 .hero .buttons a {
   background: #fff;
