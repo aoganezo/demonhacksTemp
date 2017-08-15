@@ -112,10 +112,13 @@ section {
   padding-bottom: 15px;
 }
 
-.hero .buttons {
-  position: relative;
-}
-
+ .hero .buttons a {
+    border-width: 8px;
+    display: block;
+    font-size: 20px;
+    margin: 0 auto;
+ }
+  
 .hero .buttons a {
   background: #fff;
   border: 10px solid #0F2C34;
