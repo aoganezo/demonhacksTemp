@@ -75,6 +75,7 @@ section {
 
 section.about { /*REMOVE ONCE APPLICATION BUTTON IS ADDED BACK*/
 	padding-top: 0;
+	padding-bottom: 0;
 }
 
 section.faq {

@@ -138,9 +138,9 @@ event:
         message: >
             Sponsors coming soon! If you're interested in sponsoring, please email us at sponsor@demonhacks.com!
   # This is the message you'll receive once you've registered.
-register:
-  message: >
-    You'll receive more information closer to the hackathon.
+    register:
+        message: >
+            You'll receive more information closer to the hackathon.
 
 # ----------------------------------------------------
 # -- Ignore this unless you know what you're doing. --
