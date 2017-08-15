@@ -135,7 +135,8 @@ event:
         ../images/shannon.jpg
     
     sponsors:
-        message: Sponsors coming soon! If you're interested in sponsoring, please email us at sponsor@demonhacks.com!
+        message: >
+            Sponsors coming soon! If you're interested in sponsoring, please email us at sponsor@demonhacks.com!
   # This is the message you'll receive once you've registered.
 register:
   message: >
