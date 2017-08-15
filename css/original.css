@@ -73,6 +73,14 @@ section {
   }*/ 
 }
 
+
+section.faq {
+	padding-top: 0;
+}
+section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
+	padding-top: 0;
+}
+
 .hero img {
   max-width: 400px;
 }
@@ -116,7 +124,6 @@ section {
 	text-align: center;
  }
  
-
 .hero .buttons a {
   background: #fff;
   border: 10px solid #0F2C34;
