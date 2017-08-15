@@ -113,7 +113,7 @@ section {
 }
 
 .hero .buttons {
-  margin: 80px;
+  position: relative;
 }
 
 .hero .buttons a {
