@@ -333,6 +333,10 @@ section.us { /*REMOVE THIS ONCE SCHEDULE IS ADDED BACK*/
 }
 
 @media(max-width: 768px) {
+	.h1 {
+		word-wrap: break-word;
+	}
+
   .hero .buttons a {
     border-width: 8px;
     display: block;
