@@ -97,12 +97,9 @@ layout: default
 		{{ site.event.sponsors.message | markdownify }}
     <div class="row">
       <div class="col-xs-12 col-sm-8 col-sm-offset-2">
-        {% for item in site.event.sponsors %}
         <div class="person col-xs-6">  
-          <h3> {{ item.sponsor }} </h3>
-          <img src="{{item.image}}" class="img col-xs-12">
+          <img src="{{site.event.sponsors.image}}" class="img col-xs-12">
         </div>
-        {% endfor %}
       </div>
     </div>
   </div>
